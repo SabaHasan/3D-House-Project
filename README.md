@@ -13,3 +13,14 @@ This project attempts to generate a 3D represenation of a building using geo spa
 * Geopunt APIs are used to fetch geographical coordinates as well as shapes/polygons of a particular address.
 * The final product is a 3D model of a building
 
+### Final Product:
+
+![Results example](3Dplot1.png)
+
+### Data
+
+Data is in the form of geotiff files available at the below link
+
+- [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
+- [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
+
