@@ -29,7 +29,7 @@ For more information
 
 #### Third party APIs available at:
 
-- (https://nominatim.org/)   
-- (http://www.geopunt.be)   
+- https://nominatim.org   
+- http://www.geopunt.be   
 
 
